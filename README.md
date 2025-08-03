@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/GustavoFelipe85/iot-agribusiness-tcc)
+![GitHub repo size](https://img.shields.io/github/repo-size/GustavoFelipe85/iot-agribusiness-tcc)
+![GitHub license](https://img.shields.io/github/license/GustavoFelipe85/iot-agribusiness-tcc)
+
 # iot-agribusiness-tcc
 📘 TCC: “Limiting Factors and Applications of IoT in Agriculture” • 💡 Focus: IoT, connectivity, and data integration in Brazilian agribusiness
 
